@@ -4,6 +4,7 @@
 PackageIdentifier: SlackTechnologies.Slack
 PackageVersion: 4.43.51
 UpgradeBehavior: install
+RequireExplicitUpgrade: true
 Protocols:
 - slack
 ReleaseDate: 2025-03-31
